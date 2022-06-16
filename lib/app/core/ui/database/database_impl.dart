@@ -18,7 +18,6 @@ class DatabaseImpl implements Database {
         schemas: [ProjectTaskSchema, ProjectSchema],
         directory: dir.path,
         inspector: true,
-
       );
     }
 
