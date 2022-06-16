@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137837157504",
+    "project_id": "timer-job",
+    "storage_bucket": "timer-job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137837157504:android:2da80ad306bf933691da65",
+        "android_client_info": {
+          "package_name": "br.com.ricardooliveira.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137837157504-24nmkvnc8l0g5bmvuvdn8n7eflf6vajm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01E1YtozGw-p4xsDLMpOQjLxu5ymeGbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137837157504-24nmkvnc8l0g5bmvuvdn8n7eflf6vajm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
